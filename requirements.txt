@@ -1,8 +1,13 @@
-flask
-easyocr
+Flask
 pillow
 rapidfuzz
 python-dateutil
 reportlab
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+easyocr
+torch
 python-dotenv
-groq
